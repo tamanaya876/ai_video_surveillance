@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 23px;
+    padding: 10px;
+}
+
+.btn-default:hover{
+    background-color: orange;
+    color: white;
+}
+
+#status,#number_of_objects{
+    font-size: 18px;
+}
+
+.copyright_footer{
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+    background-color: turquoise;
+    color: white;
+    text-align: center;
+    bottom: 0;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px tomato;
+    border-width: 10px;
+    border-style: double;
+    border-color: ivory;
+}
